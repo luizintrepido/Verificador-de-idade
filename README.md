@@ -1,7 +1,5 @@
 # Verificador-de-idade
  
- # hora-do-dia
- 
 <h2>💻 Sobre o projeto</h2>
 Projeto criado para praticar as habilidades em JavaScript. Pagina que fornece a idade juntamente com imagem referente a idade. Desafio proposto pelo Curso em Video.
 
